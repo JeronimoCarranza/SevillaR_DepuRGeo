@@ -1,2 +1,7 @@
-# SevillaR_DepuRGeo
-Presentación en SevillaR 20190108 - Depuración geométrica-topológica de datos geográficos con R.
+# R desde QGIS
+
+Uso de R desde QGIS
+
+Reunión SevillaR 20171003
+
+
