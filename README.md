@@ -1,4 +1,4 @@
-# DepurRGeo
+# DepuRGeo
 
 Depuración geométrica-topológica de datos geográficos con R.
 
