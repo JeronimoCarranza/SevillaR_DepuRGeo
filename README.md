@@ -1,7 +1,7 @@
-# R desde QGIS
+# DepurRGeo
 
-Uso de R desde QGIS
+Depuración geométrica-topológica de datos geográficos con R.
 
-Reunión SevillaR 20171003
+Reunión SevillaR 20190108
 
 
